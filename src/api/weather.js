@@ -17,7 +17,6 @@ export const fetchForecast = async (lat, lon, units = "metric") => {
   return response.json();
 };
 
-// Add to your api/weather.js
 export const fetchAirQuality = async (lat, lon) => {
   const response = await fetch(
     `https://air-quality-api.open-meteo.com/v1/air-quality?latitude=${lat}&longitude=${lon}&current=us_aqi,pm10,pm2_5,uv_index`,

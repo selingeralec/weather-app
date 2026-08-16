@@ -37,7 +37,7 @@ A modern, responsive weather web application built with **React 19**, **Tailwind
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/YOUR-USERNAME/weather-app.git
+   git clone https://github.com/selingeralec/weather-app.git
    cd weather-app
 
 2. Install dependencies:

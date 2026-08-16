@@ -1,4 +1,4 @@
-# Today's Outlook — Weather & Air Quality Dashboard
+# Weather & Air Quality Dashboard
 
 A modern, responsive weather web application built with **React 19**, **Tailwind CSS v4**, and **OpenWeather API**. Includes real-time weather metrics, search autocomplete, air quality indices, and unit conversion.
 

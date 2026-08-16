@@ -4,18 +4,18 @@ A modern, responsive weather web application built with **React 19**, **Tailwind
 
 ---
 
-## ✨ Features
+## Features
 
-- 🌤️ **Live Weather & 5-Day Forecast:** Detailed current temperature, feels-like temperature, humidity, wind speed, pressure, and visibility.
-- 🍃 **Air Quality & UV Index:** Real-time AQI and UV monitoring via Open-Meteo API.
-- 🔍 **Search Autocomplete:** Smart location suggestions with country tags as you type.
-- 🌡️ **Dynamic Unit Toggle:** Switch seamlessly between Celsius (`°C`) and Fahrenheit (`°F`).
-- 🎨 **Sleek Glassmorphic UI:** Modern translucent design built with Tailwind CSS v4.
-- 📱 **Fully Responsive:** Multi-column layout optimized for mobile, tablet, and desktop viewports.
+-  **Live Weather & 5-Day Forecast:** Detailed current temperature, feels-like temperature, humidity, wind speed, pressure, and visibility.
+-  **Air Quality & UV Index:** Real-time AQI and UV monitoring via Open-Meteo API.
+-  **Search Autocomplete:** Smart location suggestions with country tags as you type.
+-  **Dynamic Unit Toggle:** Switch seamlessly between Celsius (`°C`) and Fahrenheit (`°F`).
+-  **Sleek Glassmorphic UI:** Modern translucent design built with Tailwind CSS v4.
+-  **Fully Responsive:** Multi-column layout optimized for mobile, tablet, and desktop viewports.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React 19, React Icons
 - **Styling:** Tailwind CSS v4
@@ -27,7 +27,7 @@ A modern, responsive weather web application built with **React 19**, **Tailwind
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ A modern, responsive weather web application built with **React 19**, **Tailwind
 
 ---
 
-## 🧪 Testing
+## Testing
 
 Run the automated test suite with Jest and React Testing Library:
 
@@ -64,6 +64,6 @@ npm test
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
